@@ -10,40 +10,40 @@ import Wave from "../assets/wave2.svg";
 
 const FEATURES = [
   {
-    img: "http://pluginspoint.com/digeewp/wp-content/uploads/2019/04/features_icon01.png",
+    img: "/icons/features_icon01.png",
     title: "Web applications",
     description:
       "Customized & responsive web applications, social apps, CMS, E-commerce websites. We build applications that are accessible across many devices.",
   },
   {
-    img: "http://pluginspoint.com/digeewp/wp-content/uploads/2019/04/features_icon02.png",
+    img: "/icons/features_icon02.png",
     title: "Mobile applications",
     description:
       "Customized cross platform mobile applications for your business. We deliver high performant & usable mobile applications using the latest technologies. Complete management of both stores.",
   },
   {
-    img: "http://pluginspoint.com/digeewp/wp-content/uploads/2019/04/features_icon04.png",
+    img: "/icons/features_icon04.png",
     title: "Machine learning",
     description:
       "Customized & responsive web applications, social apps, CMS, E-commerce websites. We build applications that are accessible across many devices.",
   },
   {
-    img: "http://pluginspoint.com/digeewp/wp-content/uploads/2019/04/features_icon05.png",
+    img: "/icons/features_icon05.png",
     title: "Data analysis",
     description:
       "Combine all your knowledge into a smart analytics tool with dashboards, visualizations, and custom indicators. We can help you to reinforce quality across data governance, master data management, and technology components.",
   },
   {
-    img: "http://pluginspoint.com/digeewp/wp-content/uploads/2019/04/features_icon06.png",
-    title: " Support & Maintenance",
+    img: "/icons/features_icon06.png",
+    title: "Support & Maintenance",
     description:
       "We offer support and maintenance services based on your system. Bringing the right talent, customized to your unique requirements.",
   },
   {
-    img: "http://pluginspoint.com/digeewp/wp-content/uploads/2019/04/features_icon03.png",
-    title: "Falopa",
+    img: "/icons/features_icon03.png",
+    title: "Continuous Delivery",
     description:
-      "Acá se me acabo el robo e inspiración. Si se te ocurre algo, estaría groso chamuyarlo acá.",
+      "The best processes for agile development. Accelerate the delivery speed of your projects with cutting edge methodologies and tooling.",
   },
 ];
 
