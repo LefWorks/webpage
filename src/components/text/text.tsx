@@ -20,7 +20,7 @@ const Text = ({ variant, children, className }: TextProps) => {
       <h2
         className={classNames(
           BASE_STYLE,
-          "text-2xl md:text-5xl lg:text-7xl font-semibold text-center lg:text-left",
+          "text-2xl md:text-4xl lg:text-6xl font-semibold text-center lg:text-left",
           style,
         )}
       >
@@ -32,7 +32,7 @@ const Text = ({ variant, children, className }: TextProps) => {
       <h3
         className={classNames(
           BASE_STYLE,
-          "text-2xl md:text-3xl lg:text-5xl font-semibold text-center lg:text-left",
+          "text-2xl md:text-3xl lg:text-4xl font-semibold text-center lg:text-left",
           style,
         )}
       >
@@ -44,7 +44,7 @@ const Text = ({ variant, children, className }: TextProps) => {
       <h3
         className={classNames(
           BASE_STYLE,
-          "text-xl md:text-2xl lg:text-3xl font-medium text-center",
+          "text-lg md:text-xl lg:text-2xl font-medium text-center",
           style,
         )}
       >
@@ -56,7 +56,7 @@ const Text = ({ variant, children, className }: TextProps) => {
       <p
         className={classNames(
           BASE_STYLE,
-          "pt-4 text-sm md:text-lg lg:text-xl text-slate-500 font-normal",
+          "pt-4 text-sm md:text-base lg:text-lg font-normal",
           style,
         )}
       >

@@ -1,0 +1,25 @@
+.custom-shape-divider-top-1671330575 {
+  position: absolute;
+  bottom: -350px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1671330575 svg {
+  position: relative;
+  display: block;
+  width: calc(300% + 1.3px);
+  height: 350px;
+}
+
+.custom-shape-divider-top-1671330575 .shape-fill {
+  fill: #E0E7FF;
+}
+
+.curved-bottom {
+  /* Curved corners */
+  border-bottom-left-radius: 50% 40%;
+  border-bottom-right-radius: 50% 40%;
+}
